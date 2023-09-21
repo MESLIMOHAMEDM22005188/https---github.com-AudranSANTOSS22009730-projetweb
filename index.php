@@ -17,12 +17,12 @@
             margin: 0;
         }
         .login-form {
-            background-color: rgb(255, 213, 43);
+            background-color: rgb(255, 217, 41);
             color: black;
             width: 340px;
             padding: 30px;
             border-radius: 5px;
-            box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+            box-shadow: 0px 2px 2px rgba(231, 156, 156, 0.3);
         }
         .login-form h2 {
             margin: 0 0 15px;
